@@ -1,8 +1,8 @@
 # Porton Health Kiosk
 
-A full stack web application developed for Porton Health to provide medical clinics a quick and customizable method of checking in their patients. This repo is a combination of all assets created over the course of the project.
+A full-stack web application developed for Porton Health to provide medical clinics a quick and customizable method of checking in their patients. This repo is a combination of all assets created over the course of the project.
 
-Links to each application's repo:
+Links to each section's repo:
 
 - [Admin client](https://github.com/carrotcorn/PortonHealthKioskAdminFrontend)
 - [Kiosk client](https://github.com/carrotcorn/PortonHealthKioskPatientEnd)
