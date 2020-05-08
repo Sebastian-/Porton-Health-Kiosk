@@ -4,10 +4,10 @@ A full stack web application developed for Porton Health to provide medical clin
 
 Links to each application's repo:
 
-- (Admin client)[https://github.com/carrotcorn/PortonHealthKioskAdminFrontend]
-- (Kiosk client)[https://github.com/carrotcorn/PortonHealthKioskPatientEnd]
-- (Server)[https://github.com/carrotcorn/PortonHealthKioskBackend]
-- (Documentation)[https://github.com/carrotcorn/PortonDocumentation]
+- [Admin client](https://github.com/carrotcorn/PortonHealthKioskAdminFrontend)
+- [Kiosk client](https://github.com/carrotcorn/PortonHealthKioskPatientEnd)
+- [Server](https://github.com/carrotcorn/PortonHealthKioskBackend)
+- [Documentation](https://github.com/carrotcorn/PortonDocumentation)
 
 ## Features
 
@@ -60,4 +60,3 @@ yarn start
   - react-router
   - react-hook-form
   - Material-UI
-
