@@ -32,6 +32,7 @@ Links to each application's repo:
 
 ```bash
 cd server
+npm install
 docker-compose up --build
 ```
 
@@ -39,14 +40,16 @@ docker-compose up --build
 
 ```bash
 cd client-admin
-yarn start
+npm install
+npm start
 ```
 
 ### Kiosk Client
 
 ```bash
 cd client-kiosk
-yarn start
+npm install
+npm start
 ```
 
 ## Technologies/Frameworks
