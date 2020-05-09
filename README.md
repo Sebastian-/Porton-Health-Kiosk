@@ -32,7 +32,6 @@ Links to each section's repo:
 
 ```bash
 cd server
-npm install
 docker-compose up --build
 ```
 
